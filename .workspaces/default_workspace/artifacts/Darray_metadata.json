@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "updateArray",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"dynarray.sol": "Darray"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"dynarray.sol": {
+			"keccak256": "0x83ae5da3635afebe94b7f1e94aef81b7138c98061eded7ee57efc8dadb631bde",
+			"urls": [
+				"bzz-raw://abdf17bf0a9036f6b61126d83f0f9488fd5ffac4459f8516936ebfa1ed650016",
+				"dweb:/ipfs/QmQs1eB3KWhAuFqsMGcno2QrVHxiZPnfvia7qjFbWEsDxn"
+			]
+		}
+	},
+	"version": 1
+}

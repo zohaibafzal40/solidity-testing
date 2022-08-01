@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "updateArray",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"fixedarray.sol": "fixeDarray"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"fixedarray.sol": {
+			"keccak256": "0x4c25e932703438c503808d805d111e40730be5417da39c23306615d7f82400a2",
+			"urls": [
+				"bzz-raw://c1d601a9216d62fabe49af12a7933b3ab5b11cb06bf4403a0366cb3cf5225d68",
+				"dweb:/ipfs/QmVUsmiHSsTmnsFDUBBbopkVwi22JueNfa6B9Jq4r7ri7M"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,92 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "rollNo",
+						"type": "string"
+					},
+					{
+						"internalType": "int256",
+						"name": "counter",
+						"type": "int256"
+					},
+					{
+						"internalType": "string",
+						"name": "course",
+						"type": "string"
+					}
+				],
+				"name": "addCourse",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "rollNo",
+						"type": "string"
+					},
+					{
+						"internalType": "int256",
+						"name": "counter",
+						"type": "int256"
+					}
+				],
+				"name": "findCourse",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"nestedmapping.sol": "First"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"nestedmapping.sol": {
+			"keccak256": "0x49a66fd428763c93832791204dc92d5403141725ae0f27c323f276fc2967cfbe",
+			"urls": [
+				"bzz-raw://27bdda8241c0724c6dd813426ab37f81755f1dcba9a0822e8f86598b13a5f409",
+				"dweb:/ipfs/QmdCn8Z9FuY2Z6U8qAL3ZZV3tyz7GLHf1ZBAoSQV9GXvrG"
+			]
+		}
+	},
+	"version": 1
+}

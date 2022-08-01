@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getValues",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"rule.sol": "rule"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"rule.sol": {
+			"keccak256": "0xc2e544e8e329cebd8b892f96dce0c4fc1a0ded84c7ebdc79c7c4b3c5697a36c6",
+			"license": "MIT-3.0",
+			"urls": [
+				"bzz-raw://d347c9e9c4c03dbfb8297127a87fc61925d04d7f116854c5a791bd6029e88bea",
+				"dweb:/ipfs/QmTWRFzpqsagm2TDrn1vBDmUj3bFL8fCfKvRQDymrwgWD2"
+			]
+		}
+	},
+	"version": 1
+}

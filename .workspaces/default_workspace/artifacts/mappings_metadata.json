@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "update",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"mapping2.sol": "mappings"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"mapping2.sol": {
+			"keccak256": "0x6cb1189aafae923802f37a890164ca8ce26f663623d6709777236fb3a827434a",
+			"urls": [
+				"bzz-raw://3e924503d7ba0fd8e98ffb87448a9294357acc5ceb39f0868008108c7f2da2b6",
+				"dweb:/ipfs/QmUm9DbZW7nsZw1Bn2SEQREme1sKFofb6TbxD5AZ6X54K8"
+			]
+		}
+	},
+	"version": 1
+}

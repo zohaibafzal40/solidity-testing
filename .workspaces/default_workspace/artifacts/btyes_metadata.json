@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "updateValue",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"bytearray.sol": "btyes"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"bytearray.sol": {
+			"keccak256": "0x7d1e9b1503e02f14585edfc5cd14314a906022883c87a3106ceab26c5092154f",
+			"urls": [
+				"bzz-raw://7c5c0dd1b443c220ae5f34cd4869eec08660cb8880f7fb3d625309156026c6c2",
+				"dweb:/ipfs/QmNMq7ogBjbGzjPZRSf5KVfqEnqg4PLFVuKCFweKAgzieB"
+			]
+		}
+	},
+	"version": 1
+}

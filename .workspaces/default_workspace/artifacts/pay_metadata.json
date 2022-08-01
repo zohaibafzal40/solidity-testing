@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "getBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "payEther",
+				"outputs": [],
+				"payable": true,
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "sendEnderAccount",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"gisttest.sol": "pay"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"gisttest.sol": {
+			"keccak256": "0x16f946c03ef0b8311102f775f1e771857b9ca7ceade6ec6d31bebd86efa0ff21",
+			"urls": [
+				"bzz-raw://2e3f8d8e321c9e2d6911114454a301d0020e431f38d398e5cc16d3fa9690ee51",
+				"dweb:/ipfs/Qmeii1Fb3RpdvejAMXXLz5TS1QzXtsUWjUDdEx5xkrHoFP"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "assignment2",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"rule5exp.sol": "rule5exp"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"rule5exp.sol": {
+			"keccak256": "0x8852fea9462571f08f8e49877b0b7a78258bda78577041374bc51f657d5701a6",
+			"urls": [
+				"bzz-raw://5ffcaa80ff57da1ba8232480bdb9aca56c021e3155f3334332bc7da1b721e91d",
+				"dweb:/ipfs/Qme2hyHjUvhStDsC861McyQfKXxLtzvpus18hYzADYE2cm"
+			]
+		}
+	},
+	"version": 1
+}

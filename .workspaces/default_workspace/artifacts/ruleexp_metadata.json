@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"rule6exp.sol": "ruleexp"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"rule6exp.sol": {
+			"keccak256": "0x15c511b4e8acbb1df2078d19649697b918c8d6b60a8999d2e76ec2330b1540f0",
+			"urls": [
+				"bzz-raw://4e6b0c504dc6a37ecdbbada0713ce29b0a8281218ff557141818e37df7ec8a58",
+				"dweb:/ipfs/Qmesn82iV7WNbYEVZfQUxT623o6RaR2fNKVrMcapREK9sF"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "initializeArray",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"dynamicarray.sol": "Dynamicarry"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"dynamicarray.sol": {
+			"keccak256": "0xa6a3befdefcf2fc85fa48d9ab8bc39d1890a3368b5359d408eed19692fce3844",
+			"urls": [
+				"bzz-raw://a9d55af48f4ec30e43840437b7a9e11ccb10541287b790d1b88e76a0519a40a9",
+				"dweb:/ipfs/QmSXHopJBAEgabELZt7QFZWUP5JQzStAmcA2aJgCpXuegR"
+			]
+		}
+	},
+	"version": 1
+}
